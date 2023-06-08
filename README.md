@@ -1,2 +1,2 @@
 # SwiftUI-Chat-App
-Run pod INstall before execute the project.
+Run pod install before execute the project.
